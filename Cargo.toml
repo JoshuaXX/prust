@@ -1,0 +1,15 @@
+[workspace]
+
+resolver = "1"
+
+members = [
+    "chapter00_network",
+    "chapter03_fundamental_types", 
+    "chapter04_ownership_and_moves",  
+    "chapter05_references", 
+    "chapter06_expressions", 
+    "chapter07_error_handling", 
+    "chapter08_crates_and_modules", 
+    "chapter09_structs", 
+    "chapter20_asynchronous_programming", 
+    ]
