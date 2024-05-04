@@ -101,6 +101,14 @@ name = "chapter09_structs"
 version = "0.1.0"
 
 [[package]]
+name = "chapter10_enums_and_patterns"
+version = "0.1.0"
+
+[[package]]
+name = "chapter11_traits_and_generics"
+version = "0.1.0"
+
+[[package]]
 name = "chapter20_asynchronous_programming"
 version = "0.1.0"
 dependencies = [
