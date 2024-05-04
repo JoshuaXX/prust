@@ -10,6 +10,6 @@ members = [
     "chapter06_expressions", 
     "chapter07_error_handling", 
     "chapter08_crates_and_modules", 
-    "chapter09_structs", 
+    "chapter09_structs", "chapter10_enums_and_patterns", 
     "chapter20_asynchronous_programming", 
     ]
