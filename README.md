@@ -1,0 +1,2 @@
+# prust
+learning rust
